@@ -1,0 +1,8 @@
+/Users/i353584/Desktop/psnl/olingo-spring-example/src/main/java/com/github/olingo/example/entity/Product.java
+/Users/i353584/Desktop/psnl/olingo-spring-example/src/main/java/com/github/olingo/example/entity/Category.java
+/Users/i353584/Desktop/psnl/olingo-spring-example/src/main/java/com/github/olingo/example/service/CustomODataServiceFactory.java
+/Users/i353584/Desktop/psnl/olingo-spring-example/src/main/java/com/github/olingo/example/config/JerseyConfig.java
+/Users/i353584/Desktop/psnl/olingo-spring-example/src/main/java/com/github/olingo/example/Application.java
+/Users/i353584/Desktop/psnl/olingo-spring-example/src/main/java/com/github/olingo/example/service/OdataJpaServiceFactory.java
+/Users/i353584/Desktop/psnl/olingo-spring-example/src/main/java/com/github/olingo/example/service/CustomODataJpaProcessor.java
+/Users/i353584/Desktop/psnl/olingo-spring-example/src/main/java/com/github/olingo/example/controller/HealthCheckController.java

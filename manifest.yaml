@@ -1,0 +1,5 @@
+applications:
+    -   name: spring-odata-sap
+        path: target/example-olingo-0.0.1-SNAPSHOT.jar
+        buildpacks:
+            - https://github.com/cloudfoundry/java-buildpack.git

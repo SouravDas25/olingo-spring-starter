@@ -1,0 +1,10 @@
+com/github/olingo/example/controller/HealthCheckController.class
+com/github/olingo/example/service/CustomODataServiceFactory.class
+com/github/olingo/example/service/OdataJpaServiceFactory.class
+com/github/olingo/example/entity/Category.class
+com/github/olingo/example/service/CustomODataJpaProcessor.class
+com/github/olingo/example/entity/Product.class
+com/github/olingo/example/config/JerseyConfig$ODataServiceRootLocator.class
+com/github/olingo/example/config/JerseyConfig.class
+com/github/olingo/example/Application.class
+com/github/olingo/example/config/JerseyConfig$EntityManagerFilter.class
